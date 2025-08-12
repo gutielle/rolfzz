@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0A0A0A"/>
+  <text x="256" y="256" font-family="Arial" font-size="96" font-weight="bold" fill="#F3F30C" text-anchor="middle" dominant-baseline="middle">ROLFZZ</text>
+  <rect x="20" y="20" width="472" height="472" stroke="#F3F30C" stroke-width="8" fill="none"/>
+</svg>
