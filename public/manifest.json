@@ -1,0 +1,23 @@
+{
+  "name": "Rolfzz Hats",
+  "short_name": "Rolfzz",
+  "description": "Um site promocional para a marca de bonés Rolfzz, com um design de forte contraste, arestas nítidas e elementos de interface urgentes.",
+  "theme_color": "#F3F30C",
+  "background_color": "#0A0A0A",
+  "display": "standalone",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
